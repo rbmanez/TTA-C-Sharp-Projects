@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\data-type-ex.cs\data-type-ex.cs\bin\Debug\data-type-ex.cs.exe.config
+C:\Users\Robert\Documents\TTA\data-type-ex.cs\data-type-ex.cs\obj\Debug\data-type-ex.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\data-type-ex.cs\data-type-ex.cs\bin\Debug\data-type-ex.cs.exe
+C:\Users\Robert\Documents\TTA\data-type-ex.cs\data-type-ex.cs\bin\Debug\data-type-ex.cs.pdb
+C:\Users\Robert\Documents\TTA\data-type-ex.cs\data-type-ex.cs\obj\Debug\data-type-ex.cs.exe
+C:\Users\Robert\Documents\TTA\data-type-ex.cs\data-type-ex.cs\obj\Debug\data-type-ex.cs.pdb
