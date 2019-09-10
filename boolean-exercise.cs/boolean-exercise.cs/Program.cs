@@ -10,24 +10,19 @@ namespace boolean_exercise.cs
 
         static void Main(string[] args)
         {
-            //Applicants must be over 15 years old.
+            
             Console.WriteLine("What is your age?");
-            string age = Console.ReadLine();
-            bool age_over15 = Convert.ToInt32(age) > 15;
-
-            //Applicants must not have any DUI’s.
+            int age = Convert.ToInt32(Console.ReadLine());
+            
             Console.WriteLine("Have you ever had a DUI?");
-            string dui = Console.ReadLine();
-            bool zero_dui = Convert.ToBoolean(dui) == false;
-
-            //Applicants must not have more than 3 speeding tickets.
+            bool dui = Convert.ToBoolean(Console.ReadLine());
+            
             Console.WriteLine("How many speeding tickets do you have?");
-            string tickets = Console.ReadLine();
-            bool few_tickets = Convert.ToInt32(tickets) <= 3;
+            int tickets = Convert.ToInt32(Console.ReadLine());
 
-            //Print the result
+            //Applicants must be over 15 years old, no dui's, 3 or less tickets
             Console.WriteLine("Qualified?");
-            Console.WriteLine(age_over15 && zero_dui && few_tickets);
+            Console.WriteLine(age > 15 && dui == false && tickets <= 3);
             Console.ReadLine();
         }
     }
