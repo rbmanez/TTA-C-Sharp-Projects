@@ -10,19 +10,18 @@ namespace math_exercise.cs
         {
             //user input
             Console.WriteLine("Input a number:");
-            string user_input = Console.ReadLine();
-            int new_input = Convert.ToInt32(user_input);
+            int user_input = Convert.ToInt32(Console.ReadLine());
 
             //performs some math operations to user's input and displays it
-            int times = 50 * new_input;
+            int times = 50 * user_input;
             Console.WriteLine("Your number times 50 is " + times);
-            int plus = 25 + new_input;
+            int plus = 25 + user_input;
             Console.WriteLine("Your number plus 25 is " + plus);
-            double divide = (double)new_input / 12.5;
+            double divide = (double)user_input / 12.5;
             Console.WriteLine("Your number divided by 12.5 is " + divide);
-            bool tOrF = new_input > 50;
+            bool tOrF = user_input > 50;
             Console.WriteLine("Your number being greater than 50 is " + tOrF);
-            double remainder = (double)new_input % 7;
+            double remainder = (double)user_input % 7;
             Console.WriteLine("Your number divided by 7 has a remainder of " + remainder);
             Console.ReadLine();
         }
