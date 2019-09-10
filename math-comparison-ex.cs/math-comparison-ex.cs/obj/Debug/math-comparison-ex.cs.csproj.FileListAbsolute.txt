@@ -7,3 +7,6 @@ C:\Users\Robert\Documents\TTA\math-comparison-ex.cs\math-comparison-ex.cs\obj\De
 C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-comparison-ex.cs\math-comparison-ex.cs\bin\Debug\math-comparison-ex.cs.exe.config
 C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-comparison-ex.cs\math-comparison-ex.cs\obj\Debug\math-comparison-ex.cs.exe
 C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-comparison-ex.cs\math-comparison-ex.cs\obj\Debug\math-comparison-ex.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-comparison-ex.cs\math-comparison-ex.cs\bin\Debug\math-comparison-ex.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-comparison-ex.cs\math-comparison-ex.cs\bin\Debug\math-comparison-ex.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-comparison-ex.cs\math-comparison-ex.cs\obj\Debug\math-comparison-ex.cs.csprojResolveAssemblyReference.cache
