@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\boolean-exercise.cs\boolean-exercise.cs\bin\Debug\boolean-exercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\boolean-exercise.cs\boolean-exercise.cs\bin\Debug\boolean-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\boolean-exercise.cs\boolean-exercise.cs\bin\Debug\boolean-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\boolean-exercise.cs\boolean-exercise.cs\obj\Debug\boolean-exercise.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\boolean-exercise.cs\boolean-exercise.cs\obj\Debug\boolean-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\boolean-exercise.cs\boolean-exercise.cs\obj\Debug\boolean-exercise.cs.pdb
