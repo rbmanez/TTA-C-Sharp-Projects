@@ -4,3 +4,6 @@ C:\Users\Robert\Documents\TTA\welcome-acme.cs\welcome-acme.cs\bin\Debug\welcome-
 C:\Users\Robert\Documents\TTA\welcome-acme.cs\welcome-acme.cs\obj\Debug\welcome-acme.cs.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\TTA\welcome-acme.cs\welcome-acme.cs\obj\Debug\welcome-acme.cs.exe
 C:\Users\Robert\Documents\TTA\welcome-acme.cs\welcome-acme.cs\obj\Debug\welcome-acme.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\welcome-acme.cs\welcome-acme.cs\bin\Debug\welcome-acme.cs.exe.config
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\welcome-acme.cs\welcome-acme.cs\obj\Debug\welcome-acme.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\welcome-acme.cs\welcome-acme.cs\obj\Debug\welcome-acme.cs.pdb

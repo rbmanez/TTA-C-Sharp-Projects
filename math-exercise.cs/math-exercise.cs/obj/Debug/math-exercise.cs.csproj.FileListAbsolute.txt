@@ -4,3 +4,9 @@ C:\Users\Robert\Documents\TTA\math-exercise.cs\math-exercise.cs\bin\Debug\math-e
 C:\Users\Robert\Documents\TTA\math-exercise.cs\math-exercise.cs\obj\Debug\math-exercise.cs.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\TTA\math-exercise.cs\math-exercise.cs\obj\Debug\math-exercise.cs.exe
 C:\Users\Robert\Documents\TTA\math-exercise.cs\math-exercise.cs\obj\Debug\math-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-exercise.cs\math-exercise.cs\bin\Debug\math-exercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-exercise.cs\math-exercise.cs\obj\Debug\math-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-exercise.cs\math-exercise.cs\obj\Debug\math-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-exercise.cs\math-exercise.cs\bin\Debug\math-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-exercise.cs\math-exercise.cs\bin\Debug\math-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\math-exercise.cs\math-exercise.cs\obj\Debug\math-exercise.cs.csprojResolveAssemblyReference.cache
