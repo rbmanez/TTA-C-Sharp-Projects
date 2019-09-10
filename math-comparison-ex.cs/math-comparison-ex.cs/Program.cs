@@ -13,23 +13,23 @@ namespace math_comparison_ex.cs
             //p1's hourly rate and hours worked per week
             Console.WriteLine("Person 1");
             Console.WriteLine("Hourly rate?");
-            string p1_rate = Console.ReadLine();
+            decimal p1_rate = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
-            string p1_hours = Console.ReadLine();
+            decimal p1_hours = Convert.ToDecimal(Console.ReadLine());
 
             //p2's hourly rate and hours worked per week
             Console.WriteLine("Person 2");
             Console.WriteLine("Hourly rate?");
-            string p2_rate = Console.ReadLine();
+            decimal p2_rate = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
-            string p2_hours = Console.ReadLine();
+            decimal p2_hours = Convert.ToDecimal(Console.ReadLine());
 
             //p1 and p2 salaries
             Console.WriteLine("Weekly salary of Person 1:");
-            decimal p1_salary = decimal.Parse(p1_rate) * decimal.Parse(p1_hours);
+            decimal p1_salary = p1_rate * p1_hours;
             Console.WriteLine(p1_salary);
             Console.WriteLine("Weekly salary of Person 2:");
-            decimal p2_salary = decimal.Parse(p2_rate) * decimal.Parse(p2_hours);
+            decimal p2_salary = p2_rate * p2_hours;
             Console.WriteLine(p2_salary);
 
             //compare salaries
