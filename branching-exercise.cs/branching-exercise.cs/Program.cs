@@ -8,6 +8,8 @@ namespace branching_exercise.cs
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below");
+
+            //get package weight
             Console.WriteLine("What is the package weight?");
             double weight = Convert.ToDouble(Console.ReadLine());
 
@@ -19,6 +21,7 @@ namespace branching_exercise.cs
             }
             else
             {
+                //get package dimensions
                 Console.WriteLine("What is the package width?");
                 double width = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine("What is the package height?");

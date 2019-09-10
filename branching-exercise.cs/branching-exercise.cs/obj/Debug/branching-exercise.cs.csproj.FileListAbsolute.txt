@@ -4,3 +4,9 @@ C:\Users\Robert\Documents\TTA\branching-exercise.cs\branching-exercise.cs\bin\De
 C:\Users\Robert\Documents\TTA\branching-exercise.cs\branching-exercise.cs\obj\Debug\branching-exercise.cs.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\TTA\branching-exercise.cs\branching-exercise.cs\obj\Debug\branching-exercise.cs.exe
 C:\Users\Robert\Documents\TTA\branching-exercise.cs\branching-exercise.cs\obj\Debug\branching-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\branching-exercise.cs\branching-exercise.cs\bin\Debug\branching-exercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\branching-exercise.cs\branching-exercise.cs\obj\Debug\branching-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\branching-exercise.cs\branching-exercise.cs\obj\Debug\branching-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\branching-exercise.cs\branching-exercise.cs\bin\Debug\branching-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\branching-exercise.cs\branching-exercise.cs\bin\Debug\branching-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\branching-exercise.cs\branching-exercise.cs\obj\Debug\branching-exercise.cs.csprojResolveAssemblyReference.cache
