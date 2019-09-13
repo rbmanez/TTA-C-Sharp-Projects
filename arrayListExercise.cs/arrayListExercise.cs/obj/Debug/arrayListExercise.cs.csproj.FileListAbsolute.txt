@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\arrayListExercise.cs\arrayListExercise.cs\bin\Debug\arrayListExercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\arrayListExercise.cs\arrayListExercise.cs\bin\Debug\arrayListExercise.cs.exe
+C:\Users\Robert\Documents\TTA\arrayListExercise.cs\arrayListExercise.cs\bin\Debug\arrayListExercise.cs.pdb
+C:\Users\Robert\Documents\TTA\arrayListExercise.cs\arrayListExercise.cs\obj\Debug\arrayListExercise.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\arrayListExercise.cs\arrayListExercise.cs\obj\Debug\arrayListExercise.cs.exe
+C:\Users\Robert\Documents\TTA\arrayListExercise.cs\arrayListExercise.cs\obj\Debug\arrayListExercise.cs.pdb

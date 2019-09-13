@@ -4,3 +4,6 @@ C:\Users\Robert\Documents\TTA\while-exercise.cs\while-exercise.cs\bin\Debug\whil
 C:\Users\Robert\Documents\TTA\while-exercise.cs\while-exercise.cs\bin\Debug\while-exercise.cs.pdb
 C:\Users\Robert\Documents\TTA\while-exercise.cs\while-exercise.cs\obj\Debug\while-exercise.cs.exe
 C:\Users\Robert\Documents\TTA\while-exercise.cs\while-exercise.cs\obj\Debug\while-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\while-exercise.cs\while-exercise.cs\bin\Debug\while-exercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\while-exercise.cs\while-exercise.cs\obj\Debug\while-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\while-exercise.cs\while-exercise.cs\obj\Debug\while-exercise.cs.pdb
