@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\string-exercise.cs\string-exercise.cs\bin\Debug\string-exercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\string-exercise.cs\string-exercise.cs\bin\Debug\string-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\string-exercise.cs\string-exercise.cs\bin\Debug\string-exercise.cs.pdb
+C:\Users\Robert\Documents\TTA\string-exercise.cs\string-exercise.cs\obj\Debug\string-exercise.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\string-exercise.cs\string-exercise.cs\obj\Debug\string-exercise.cs.exe
+C:\Users\Robert\Documents\TTA\string-exercise.cs\string-exercise.cs\obj\Debug\string-exercise.cs.pdb
