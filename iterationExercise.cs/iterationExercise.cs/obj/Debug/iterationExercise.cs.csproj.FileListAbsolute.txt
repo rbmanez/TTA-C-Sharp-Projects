@@ -4,3 +4,6 @@ C:\Users\Robert\Documents\TTA\iterationExercise.cs\iterationExercise.cs\bin\Debu
 C:\Users\Robert\Documents\TTA\iterationExercise.cs\iterationExercise.cs\obj\Debug\iterationExercise.cs.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\TTA\iterationExercise.cs\iterationExercise.cs\obj\Debug\iterationExercise.cs.exe
 C:\Users\Robert\Documents\TTA\iterationExercise.cs\iterationExercise.cs\obj\Debug\iterationExercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\iterationExercise.cs\iterationExercise.cs\bin\Debug\iterationExercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\iterationExercise.cs\iterationExercise.cs\obj\Debug\iterationExercise.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\iterationExercise.cs\iterationExercise.cs\obj\Debug\iterationExercise.cs.pdb

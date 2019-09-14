@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\exceptionHandlingEx.cs\exceptionHandlingEx.cs\bin\Debug\exceptionHandlingEx.cs.exe.config
+C:\Users\Robert\Documents\TTA\exceptionHandlingEx.cs\exceptionHandlingEx.cs\bin\Debug\exceptionHandlingEx.cs.exe
+C:\Users\Robert\Documents\TTA\exceptionHandlingEx.cs\exceptionHandlingEx.cs\bin\Debug\exceptionHandlingEx.cs.pdb
+C:\Users\Robert\Documents\TTA\exceptionHandlingEx.cs\exceptionHandlingEx.cs\obj\Debug\exceptionHandlingEx.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\exceptionHandlingEx.cs\exceptionHandlingEx.cs\obj\Debug\exceptionHandlingEx.cs.exe
+C:\Users\Robert\Documents\TTA\exceptionHandlingEx.cs\exceptionHandlingEx.cs\obj\Debug\exceptionHandlingEx.cs.pdb
