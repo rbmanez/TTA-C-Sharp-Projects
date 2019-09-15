@@ -17,7 +17,7 @@ namespace methodExercise.cs
         }
         public static int Multiply10(int num)
         {
-            num = num * 20;
+            num = num * 10;
             return num;
         }
         public static int Square(int num)
