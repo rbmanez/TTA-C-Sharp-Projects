@@ -4,3 +4,6 @@ C:\Users\Robert\Documents\TTA\methodExercise3.cs\methodExercise3.cs\bin\Debug\me
 C:\Users\Robert\Documents\TTA\methodExercise3.cs\methodExercise3.cs\obj\Debug\methodExercise3.cs.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\TTA\methodExercise3.cs\methodExercise3.cs\obj\Debug\methodExercise3.cs.exe
 C:\Users\Robert\Documents\TTA\methodExercise3.cs\methodExercise3.cs\obj\Debug\methodExercise3.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\methodExercise3.cs\methodExercise3.cs\bin\Debug\methodExercise3.cs.exe.config
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\methodExercise3.cs\methodExercise3.cs\obj\Debug\methodExercise3.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\methodExercise3.cs\methodExercise3.cs\obj\Debug\methodExercise3.cs.pdb
