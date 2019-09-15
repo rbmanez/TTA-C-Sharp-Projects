@@ -4,3 +4,6 @@ C:\Users\Robert\Documents\TTA\methodExercise.cs\methodExercise.cs\bin\Debug\meth
 C:\Users\Robert\Documents\TTA\methodExercise.cs\methodExercise.cs\bin\Debug\methodExercise.cs.pdb
 C:\Users\Robert\Documents\TTA\methodExercise.cs\methodExercise.cs\obj\Debug\methodExercise.cs.exe
 C:\Users\Robert\Documents\TTA\methodExercise.cs\methodExercise.cs\obj\Debug\methodExercise.cs.pdb
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\methodExercise.cs\methodExercise.cs\bin\Debug\methodExercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\methodExercise.cs\methodExercise.cs\obj\Debug\methodExercise.cs.exe
+C:\Users\Robert\Documents\TTA\projects\tta-c-sharp-projects\methodExercise.cs\methodExercise.cs\obj\Debug\methodExercise.cs.pdb
