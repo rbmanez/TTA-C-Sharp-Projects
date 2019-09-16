@@ -19,6 +19,11 @@ namespace abstractClassExercise.cs
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.SayName();
+
+            //Use polymorphism to create an object of type IQuittable and call the Quit() method on it.
+            IQuittable iquit = new Employee();
+            iquit.Quit();
+
         }
     }
 }
