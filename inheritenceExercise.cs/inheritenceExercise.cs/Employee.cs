@@ -11,5 +11,31 @@ namespace inheritenceExercise.cs
     class Employee : Person
     {
         public int Id { get; set; }
+
+        //Overload the "==" operator so it checks if two Employee objects are equal by comparing their Id property.
+        public static bool operator ==(Employee a, Employee b)
+        {
+            if (a.Id == b.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+        public static bool operator !=(Employee a, Employee b)
+        {
+            if (a.Id != b.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
+
 }
