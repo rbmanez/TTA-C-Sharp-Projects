@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\abstractClassExercise.cs\abstractClassExercise.cs\bin\Debug\abstractClassExercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\abstractClassExercise.cs\abstractClassExercise.cs\bin\Debug\abstractClassExercise.cs.exe
+C:\Users\Robert\Documents\TTA\abstractClassExercise.cs\abstractClassExercise.cs\bin\Debug\abstractClassExercise.cs.pdb
+C:\Users\Robert\Documents\TTA\abstractClassExercise.cs\abstractClassExercise.cs\obj\Debug\abstractClassExercise.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\abstractClassExercise.cs\abstractClassExercise.cs\obj\Debug\abstractClassExercise.cs.exe
+C:\Users\Robert\Documents\TTA\abstractClassExercise.cs\abstractClassExercise.cs\obj\Debug\abstractClassExercise.cs.pdb
