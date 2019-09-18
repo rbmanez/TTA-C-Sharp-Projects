@@ -1,4 +1,4 @@
-﻿//PURPOSE:    Inheritence exercise
+﻿//PURPOSE:    Inheritence exercise, operator overloading exercise
 //AUTHOR:     Robert Manez
 
 using System;
