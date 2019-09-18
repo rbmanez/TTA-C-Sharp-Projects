@@ -1,4 +1,4 @@
-﻿//PURPOSE:    Abstract class exercise
+﻿//PURPOSE:    Abstract class exercise, interface exercise, polymorphism exercise
 //AUTHOR:     Robert Manez
 
 using System;
