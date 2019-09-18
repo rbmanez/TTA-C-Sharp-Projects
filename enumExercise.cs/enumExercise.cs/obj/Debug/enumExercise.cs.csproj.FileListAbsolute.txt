@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\enumExercise.cs\enumExercise.cs\bin\Debug\enumExercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\enumExercise.cs\enumExercise.cs\bin\Debug\enumExercise.cs.exe
+C:\Users\Robert\Documents\TTA\enumExercise.cs\enumExercise.cs\bin\Debug\enumExercise.cs.pdb
+C:\Users\Robert\Documents\TTA\enumExercise.cs\enumExercise.cs\obj\Debug\enumExercise.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\enumExercise.cs\enumExercise.cs\obj\Debug\enumExercise.cs.exe
+C:\Users\Robert\Documents\TTA\enumExercise.cs\enumExercise.cs\obj\Debug\enumExercise.cs.pdb
