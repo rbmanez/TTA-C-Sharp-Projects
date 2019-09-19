@@ -1,0 +1,5 @@
+C:\Users\Robert\Documents\TTA\structExercise.cs\structExercise.cs\bin\Debug\structExercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\structExercise.cs\structExercise.cs\bin\Debug\structExercise.cs.exe
+C:\Users\Robert\Documents\TTA\structExercise.cs\structExercise.cs\bin\Debug\structExercise.cs.pdb
+C:\Users\Robert\Documents\TTA\structExercise.cs\structExercise.cs\obj\Debug\structExercise.cs.exe
+C:\Users\Robert\Documents\TTA\structExercise.cs\structExercise.cs\obj\Debug\structExercise.cs.pdb
