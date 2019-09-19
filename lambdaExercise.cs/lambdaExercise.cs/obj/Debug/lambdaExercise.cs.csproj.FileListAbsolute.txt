@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\lambdaExercise.cs\lambdaExercise.cs\bin\Debug\lambdaExercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\lambdaExercise.cs\lambdaExercise.cs\bin\Debug\lambdaExercise.cs.exe
+C:\Users\Robert\Documents\TTA\lambdaExercise.cs\lambdaExercise.cs\bin\Debug\lambdaExercise.cs.pdb
+C:\Users\Robert\Documents\TTA\lambdaExercise.cs\lambdaExercise.cs\obj\Debug\lambdaExercise.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\lambdaExercise.cs\lambdaExercise.cs\obj\Debug\lambdaExercise.cs.exe
+C:\Users\Robert\Documents\TTA\lambdaExercise.cs\lambdaExercise.cs\obj\Debug\lambdaExercise.cs.pdb
