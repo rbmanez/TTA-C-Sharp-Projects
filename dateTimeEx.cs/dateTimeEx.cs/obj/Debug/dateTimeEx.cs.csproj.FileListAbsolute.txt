@@ -1,0 +1,5 @@
+C:\Users\Robert\Documents\TTA\dateTimeEx.cs\dateTimeEx.cs\bin\Debug\dateTimeEx.cs.exe.config
+C:\Users\Robert\Documents\TTA\dateTimeEx.cs\dateTimeEx.cs\bin\Debug\dateTimeEx.cs.exe
+C:\Users\Robert\Documents\TTA\dateTimeEx.cs\dateTimeEx.cs\bin\Debug\dateTimeEx.cs.pdb
+C:\Users\Robert\Documents\TTA\dateTimeEx.cs\dateTimeEx.cs\obj\Debug\dateTimeEx.cs.exe
+C:\Users\Robert\Documents\TTA\dateTimeEx.cs\dateTimeEx.cs\obj\Debug\dateTimeEx.cs.pdb
