@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\constVarConstructorChainEx.cs\constVarConstructorChainEx.cs\bin\Debug\constVarConstructorChainEx.cs.exe.config
+C:\Users\Robert\Documents\TTA\constVarConstructorChainEx.cs\constVarConstructorChainEx.cs\bin\Debug\constVarConstructorChainEx.cs.exe
+C:\Users\Robert\Documents\TTA\constVarConstructorChainEx.cs\constVarConstructorChainEx.cs\bin\Debug\constVarConstructorChainEx.cs.pdb
+C:\Users\Robert\Documents\TTA\constVarConstructorChainEx.cs\constVarConstructorChainEx.cs\obj\Debug\constVarConstructorChainEx.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\constVarConstructorChainEx.cs\constVarConstructorChainEx.cs\obj\Debug\constVarConstructorChainEx.cs.exe
+C:\Users\Robert\Documents\TTA\constVarConstructorChainEx.cs\constVarConstructorChainEx.cs\obj\Debug\constVarConstructorChainEx.cs.pdb
