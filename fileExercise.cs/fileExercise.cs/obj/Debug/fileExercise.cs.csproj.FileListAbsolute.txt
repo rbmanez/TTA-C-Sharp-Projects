@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\TTA\fileExercise.cs\fileExercise.cs\bin\Debug\fileExercise.cs.exe.config
+C:\Users\Robert\Documents\TTA\fileExercise.cs\fileExercise.cs\bin\Debug\fileExercise.cs.exe
+C:\Users\Robert\Documents\TTA\fileExercise.cs\fileExercise.cs\bin\Debug\fileExercise.cs.pdb
+C:\Users\Robert\Documents\TTA\fileExercise.cs\fileExercise.cs\obj\Debug\fileExercise.cs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\TTA\fileExercise.cs\fileExercise.cs\obj\Debug\fileExercise.cs.exe
+C:\Users\Robert\Documents\TTA\fileExercise.cs\fileExercise.cs\obj\Debug\fileExercise.cs.pdb
