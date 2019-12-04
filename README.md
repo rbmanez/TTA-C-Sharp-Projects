@@ -23,4 +23,4 @@ The Car Insurance Quote Project was created to gain more experience with C# ASP.
 ## C# Exercises
 [Click here to see the C# Exercises](https://github.com/rbmanez/TTA-C-Sharp-Projects/tree/master/C-Sharp-Exercises)
 
-The C# Exercises are practice drills to gain expereince and familiarity.
+The C# Exercises are practice drills to gain C# experience and familiarity. Some concepts covered include comparison operators, boolean logic, strings, arrays and lists, iteration, methods, classes, inheritence, and more.
