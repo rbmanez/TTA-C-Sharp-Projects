@@ -1,5 +1,4 @@
 # TTA C# Projects
-Practice projects from The Tech Academy's C# course.
 
 ## Contoso University Project
 The Contoso University Project was created following Microsoft's tutorial to gain more experience using Entity Framwork 6 Code-First, MVC, and implementing CRUD (create, read, update, delete) funcionalities for Student objects and sorting, filtering, and paging functionalities for a Student table.
