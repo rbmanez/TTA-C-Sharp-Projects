@@ -4,9 +4,10 @@ namespace boolean_exercise.cs
 {
     class Program
     {
-        //A basic approval program for car insurance. It will ask the applicant some
-        //questions and return a “true” or “false” at the end as to whether or not
-        //the applicant qualified for car insurance.
+        //Drill:
+        //  - Your job is to create a basic approval program for car insurance. It
+        //  will ask the applicant some questions and return a “true” or “false”
+        //  at the end as to whether or not the applicant qualified for car insurance.
 
         static void Main(string[] args)
         {

@@ -11,6 +11,7 @@ namespace arrayListExercise.cs
 {
     class Program
     {
+        //Drill: Array and list exercises
         static void Main(string[] args)
         {
             //Create an array of strings.
@@ -34,7 +35,6 @@ namespace arrayListExercise.cs
                 }
             }
 
-
             //Create an array of integers.
             //Ask the user to select an index of the Array and then display the integer at that index on the screen.
             //Add in a message that displays when the user selects an index that doesn’t exist.
@@ -55,7 +55,6 @@ namespace arrayListExercise.cs
                     Console.ReadLine();
                 }
             }
-
 
             //Create a List of strings.
             //Ask the user to select an index of the List and then display the content at that index on the screen.

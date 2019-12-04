@@ -28,8 +28,7 @@ namespace iterationExercise.cs
                 Console.WriteLine(userString);
             }
             Console.ReadLine();
-
-
+            
             //Create an infinite loop.
             bool infiniteIsTrue = true;
             while (infiniteIsTrue)
@@ -40,8 +39,7 @@ namespace iterationExercise.cs
                 Console.WriteLine("This is no longer an infinite loop!");
             }
             Console.ReadLine();
-
-
+            
             //Create a loop where the comparison used to determine whether to continue iterating the loop is a “<” operator.
             List<int> intList = new List<int>() { 2, 4, 8, 16 };
             for (int i = 0; i < intList.Count; i++)
@@ -49,8 +47,7 @@ namespace iterationExercise.cs
                 Console.WriteLine(intList[i]);
             }
             Console.ReadLine();
-
-
+            
             //Create a loop where the comparison used to determine whether to continue iterating the loop is a “<=” operator.
             int count = 1;
             while (count <= 4)
@@ -59,8 +56,7 @@ namespace iterationExercise.cs
                 count++;
             }
             Console.ReadLine();
-
-
+            
             //Create a List of strings where each item in the list is unique.
             List<string> officeList = new List<string>() { "pen", "paper", "stapler", "computer" };
             Console.WriteLine("I have a list of four common office supplies:");
@@ -91,8 +87,7 @@ namespace iterationExercise.cs
                     Console.WriteLine("Sorry, there is no match for " + userInput + " from the list.");
                 }
             }
-
-
+            
             //Create a List of strings that has at least two identical strings in the List.
             List<string> fruitList = new List<string>() { "mango", "peach", "grape", "mango" };
             Console.WriteLine("I have a list of fruits:");
@@ -122,8 +117,7 @@ namespace iterationExercise.cs
                 }
             }
             Console.ReadLine();
-
-
+            
             //create a list of strings that has at least two identical strings in the list.
             List<string> langList = new List<string>() { "c#", "python", "javascript", "c#", "python", "c#", "java" };
             //create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.

@@ -4,12 +4,14 @@ namespace data_type_ex.cs
 {
     class Program
     {
-        //A daily report for students of The Tech Academy.
+        //Drill:
+        //  - Your job is to create a daily report for students of The Tech Academy.
+        //  - The program must start by printing “The Tech Academy”.
+        //  - The next line below that must be “Student Daily Report”
+        //  - You must ask and save to a well-named variable and proper data type answers to the following questions
 
         static void Main(string[] args)
         {
-            //Ask and save to a well-named variable and proper data type answers to the following questions
-
             Console.WriteLine("The Tech Academy");
             Console.WriteLine("Student Daily Report");
 

@@ -2,7 +2,8 @@
 
 namespace branching_exercise.cs
 {
-    //a console-based application for getting a shipping quote for a package
+    //Drill:
+    //  - Your job is to create a console-based application for getting a shipping quote for a package.
     class Program
     {
         static void Main(string[] args)

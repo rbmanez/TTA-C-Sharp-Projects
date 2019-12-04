@@ -8,6 +8,7 @@ namespace string_exercise.cs
 {
     class Program
     {
+        //Drill: String exercises
         static void Main(string[] args)
         {
             //Concatenate three strings.

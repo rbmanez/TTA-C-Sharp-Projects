@@ -4,7 +4,8 @@ namespace math_exercise.cs
 {
     class Program
     {
-        //A console application that takes user input and performs some math operations.
+        //Drill:
+        //  - Create a console application that takes user input number, performs some math operations, and prints results to the console
 
         static void Main(string[] args)
         {

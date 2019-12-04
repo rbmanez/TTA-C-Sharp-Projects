@@ -2,7 +2,9 @@
 
 namespace while_exercise.cs
 {
-    //while and do while exercise
+    //Drill:
+    //  - Do a boolean comparison using a while statement.
+    //  - Do a boolean comparison using a do while statement.
     class Program
     {
         static void Main(string[] args)

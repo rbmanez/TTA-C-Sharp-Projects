@@ -4,7 +4,8 @@ namespace math_comparison_ex.cs
 {
     class Program
     {
-        //An anonymous income comparison program.
+        //Drill:
+        //  - Your job is to create an anonymous income comparison program.
 
         static void Main(string[] args)
         {
