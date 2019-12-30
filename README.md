@@ -13,7 +13,7 @@ This project was created following Microsoft's tutorial to gain more experience 
 ![screenshot](screenshots/pic1.png)
 
 ## Car Insurance Quote
-This C#/ASP.NET MVC project genereates a car insurance quote based on the user's input. CSS/Bootstrap and HTML were also used.
+This C#/ASP.NET MVC project genereates a car insurance quote based on the user's input. SQL Server, CSS/Bootstrap and HTML were also used.
 
 [Click here to see the code.](https://github.com/rbmanez/TTA-C-Sharp-Projects/tree/master/CarInsuranceQuote)
 
