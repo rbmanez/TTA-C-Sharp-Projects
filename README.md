@@ -5,7 +5,7 @@
 - [C# Exercises](#c-exercises)
 
 ## Contoso University
-This project was created following Microsoft's tutorial to gain more experience using Entity Framwork 6 Code-First, MVC, and implementing CRUD (create, read, update, delete) funcionalities for Student objects and sorting, filtering, and paging functionalities for a Student table.
+Implemented CRUD (create, read, update, delete) funcionalities for Student objects and sorting, filtering, and paging functionalities for a Student table for a mock school. Based on a Microsoft tutorial. (HTML, CSS/Bootstrap, C#/ASP.NET MVC, SQL Server)
 
 [Click here to see the code.](https://github.com/rbmanez/TTA-C-Sharp-Projects/tree/master/ContosoUniversity/ContosoUniversity)
 
@@ -13,7 +13,7 @@ This project was created following Microsoft's tutorial to gain more experience 
 ![screenshot](screenshots/pic1.png)
 
 ## Car Insurance Quote
-This C#/ASP.NET MVC project genereates a car insurance quote based on the user's input. SQL Server, CSS/Bootstrap and HTML were also used.
+Genereates a car insurance quote based on a user's input. (HTML, CSS/Bootstrap, C#/ASP.NET MVC, SQL Server)
 
 [Click here to see the code.](https://github.com/rbmanez/TTA-C-Sharp-Projects/tree/master/CarInsuranceQuote)
 
