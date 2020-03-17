@@ -5,7 +5,7 @@
 - [C# Exercises](#c-exercises)
 
 ## Contoso University
-Implemented CRUD (create, read, update, delete) funcionalities for Student objects and sorting, filtering, and paging functionalities for a Student table for a mock school. Based on a Microsoft tutorial. (HTML, CSS/Bootstrap, C#/ASP.NET MVC, SQL Server)
+Implemented CRUD (create, read, update, delete) funcionalities for Student objects and sorting, filtering, and paging functionalities for a Student table for a mock school. (HTML, CSS/Bootstrap, C#/ASP.NET MVC, SQL Server)
 
 [Click here to see the code.](https://github.com/rbmanez/TTA-C-Sharp-Projects/tree/master/ContosoUniversity/ContosoUniversity)
 
@@ -13,7 +13,7 @@ Implemented CRUD (create, read, update, delete) funcionalities for Student objec
 ![screenshot](screenshots/pic1.png)
 
 ## Car Insurance Quote
-Genereates a car insurance quote based on a user's input. (HTML, CSS/Bootstrap, C#/ASP.NET MVC, SQL Server)
+Genereates a car insurance quote based on a user's input and saves the info in a database. (HTML, CSS/Bootstrap, C#/ASP.NET MVC, SQL Server)
 
 [Click here to see the code.](https://github.com/rbmanez/TTA-C-Sharp-Projects/tree/master/CarInsuranceQuote)
 
